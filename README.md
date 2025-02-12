@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hola
 
-<!--
-**Hugo-AVG04/Hugo-AVG04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hola, soy Hugo Vivanco, Estudio Ingenieria en sistemas Computacionales en el Tecnm Campus Tlajomulco.
+En el tiempo que he estudiado he programado en:
 
-Here are some ideas to get you started:
+- Python
+- Java
+- HTML
+- Delphi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+He usado MySql
+
+### Mis materias favoritas han sido:
+
+- Programacion Orientada a Objetos
+- Sistemas operativos y Taller de sistemas Operativos
+- Contabilidad
+- Desarrollo Sustentable
+- Programacion WEB
+- Fundamentos de Telecomunicaciones
